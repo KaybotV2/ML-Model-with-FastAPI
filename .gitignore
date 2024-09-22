@@ -1,3 +1,8 @@
 model/input/*
 model.pk1
+model.h5
+model.keras
 .ipynb_checkpoints
+image/src/__pycache__
+image/src/__init__.py
+image/.env

@@ -1,0 +1,13 @@
+boto3
+uvicorn
+mangum
+pydantic
+fastapi
+python-multipart
+tensorflow
+pyyaml
+h5py
+numpy
+pandas
+scikit-learn
+scipy
